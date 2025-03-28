@@ -1,0 +1,1 @@
+This project demonstrates the creation of a client-side e-commerce website using HTML, CSS, and JavaScript. It simulates essential e-commerce functionalities such as adding items to a shopping cart, proceeding to checkout, and processing payments.
