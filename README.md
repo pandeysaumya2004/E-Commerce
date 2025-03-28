@@ -1,6 +1,6 @@
 This project showcases the development of a client-side e-commerce website utilizing HTML, CSS, and JavaScript. The primary focus is on advanced CSS techniques to create a visually appealing and user-friendly interface.
 
-Features
+Features:-
 
 
 Product Catalog: Displays a diverse range of products with high-quality images, detailed descriptions, and pricing information.
@@ -14,7 +14,7 @@ Responsive Design: Ensures optimal viewing and interaction experience across var
 Enhanced Styling: Employs advanced CSS techniques, including animations, transitions, and hover effects, to enrich user engagement.
 
 
-Styling Focus
+Styling Focus:-
 
 
 The design emphasizes advanced CSS techniques to enhance visual appeal and user experience:
